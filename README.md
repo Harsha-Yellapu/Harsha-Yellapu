@@ -64,6 +64,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsha-Yellapu&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-Yellapu&layout=compact&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Harsha-Yellapu&show_icons=true&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-Yellapu&layout=compact&theme=default" />
 </p>
