@@ -15,11 +15,12 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🧠 [**Student Mental Health Predictor**](https://github.com/Harsha-Yellapu/student-mental-health-predictor) | Predicts student mental health risk (Low/Moderate/High) from lifestyle habits using XGBoost, with SHAP explainability and personalized recommendations. Deployed as a Streamlit app. | Python, scikit-learn, XGBoost, SHAP, Streamlit |
-| 🩺 [**Disease Risk Prediction System**](https://github.com/Harsha-Yellapu/disease-risk-prediction-system) | Predicts risk of Diabetes, Heart Disease, and Kidney Disease from biomarker values using XGBoost, with SHAP explanations in plain language and SQLite-based report history. | Python, scikit-learn, XGBoost, SHAP, SQLite, Streamlit |
+| 🧠 [**Student Mental Health Predictor**](https://github.com/Harsha-Yellapu/student-mental-health-predictor) | Predicts student mental health risk (Low/Moderate/High) from lifestyle habits using XGBoost + SHAP explainability. Deployed as a Streamlit app with MLflow tracking. | Python, XGBoost, SHAP, Streamlit, MLflow |
+| 🩺 [**Disease Risk Prediction System**](https://github.com/Harsha-Yellapu/disease-risk-prediction-system) | Predicts risk of Diabetes, Heart Disease and Kidney Disease from biomarker values using XGBoost + SHAP, with SQLite report history. | Python, XGBoost, SHAP, Streamlit, SQLite |
+| 💰 [**AI-Powered Personal Finance Tracker**](https://github.com/Harsha-Yellapu/ai-finance-tracker) | Reads bank statement PDFs, auto-categorizes transactions using NLP, predicts next month's spending with Linear Regression, and visualizes insights on a Plotly dashboard. | Python, PyMuPDF, scikit-learn, Plotly, Streamlit, SQLite |
 | 📄 [**resume-analyzer**](https://github.com/Harsha-Yellapu/resume-analyzer) | A tool to analyze and evaluate resumes. | JavaScript |
 
-> More projects (AI-Powered Personal Finance Tracker, Real-Time Object Detection Security Camera) coming soon — currently in development.
+> 🔨 Real-Time Object Detection Security Camera — currently in development (Python, YOLOv8, OpenCV, Streamlit, SMTP)
 
 ### 🛠️ Tech Stack
 
